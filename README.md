@@ -5,7 +5,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=fanfanhappy&show_icons=true&theme=transparent" alt="Anurag's GitHub stats" style="height:150px;width:360px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanfanhappy&layout=compact&theme=transparent" alt="Top Langs" style="height:150px;width:460px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=transparent" alt="Top Langs" style="height:150px;width:460px;"/>
   <br />
   <img src="https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-IDEA-blue" />
   <img src="https://img.shields.io/badge/I%20Like-Animation-ff69b4" />
