@@ -71,7 +71,6 @@ Windows 本地文件搜索，一个输入框同时搜文件名、拼音、正文
   <img src="https://img.shields.io/github/last-commit/fanfanhappy/TraceFind?style=flat-square&label=TraceFind%20最近提交&color=8b8cff" alt="TraceFind 最近提交" />
 </p>
 
-<sub>原来的 github-readme-stats 卡片经常 503，换成 Shields 徽章，加载更稳。</sub>
 
 ## 关于我
 
