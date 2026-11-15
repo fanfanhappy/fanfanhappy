@@ -68,7 +68,6 @@ Windows 本地文件搜索，一个输入框同时搜文件名、拼音、正文
   <a href="https://github.com/fanfanhappy?tab=repositories"><img src="https://img.shields.io/github/stars/fanfanhappy?affiliations=OWNER&style=flat-square&label=Stars&color=8b8cff" alt="Stars" /></a>
   <a href="https://github.com/fanfanhappy?tab=followers"><img src="https://img.shields.io/github/followers/fanfanhappy?style=flat-square&label=Followers&color=8b8cff" alt="Followers" /></a>
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ffanfanhappy&query=%24.public_repos&style=flat-square&label=Repos&color=8b8cff" alt="Repos" />
-  <img src="https://img.shields.io/github/last-commit/fanfanhappy/TraceFind?style=flat-square&label=TraceFind%20最近提交&color=8b8cff" alt="TraceFind 最近提交" />
 </p>
 
 
