@@ -1,25 +1,98 @@
-### /*A programmer who can't write code*/
-# Hey Guys! 👋 I'm fanfanhappy
+<div align="center">
 
-# 别看了，没有抽奖 :muscle:
+<h3>好女人蕾塞！ · fanfanhappy</h3>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=fanfanhappy&show_icons=true&theme=transparent" alt="Anurag's GitHub stats" style="height:150px;width:360px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanfanhappy&layout=compact&theme=transparent" alt="Top Langs" style="height:150px;width:460px;"/>
+<p><code>/* A programmer who can't write code */</code></p>
+
+<p>
+  在写一个真能用的 Windows 搜索工具 · 偶尔做小游戏 · 长期在学
   <br />
-  <img src="https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-IDEA-blue" />
-  <img src="https://img.shields.io/badge/I%20Like-Animation-ff69b4" />
-  <img src="https://img.shields.io/badge/I%20Like-%E8%95%BE%E8%B5%9B-blueviolet" />
+  <sub>Building a search tool I actually use · sometimes making games · always learning</sub>
 </p>
 
-# I like her very much, I want you to know :pray:
+</div>
 
-<p align="left">
-    <a href="https://img2.woyaogexing.com/2021/06/14/5784f4d1a8684cd0be306bc30e96f368!400x400.jpeg" title="蕾赛">
-    <img src="https://img2.woyaogexing.com/2021/06/14/5784f4d1a8684cd0be306bc30e96f368!400x400.jpeg" alt="蕾赛" title="蕾赛"  style="height:400px;width:400px;" />
-    </a>
-    <a href="https://i0.wp.com/mitaiyomitai.com/wp-content/uploads/2021/01/%E3%83%AC%E3%82%BC%E3%80%80%E6%82%AA%E9%AD%94.jpg?resize=546%2C494&ssl=1" title="蕾赛">
-    <img src="https://i0.wp.com/mitaiyomitai.com/wp-content/uploads/2021/01/%E3%83%AC%E3%82%BC%E3%80%80%E6%82%AA%E9%AD%94.jpg?resize=546%2C494&ssl=1" alt="蕾赛" title="蕾赛" style="height:400px;width:400px;" />
+---
+
+## 现在在做
+
+<table>
+<tr>
+<td width="56%" valign="top">
+
+### [TraceFind · 寻迹](https://github.com/fanfanhappy/TraceFind)
+
+**忘了文件名，记得一点也能找。**
+
+Windows 本地文件搜索，一个输入框同时搜文件名、拼音、正文、OCR 和语义。
+
+- 扫描件里的字也能搜到，结果标清来源
+- 找到直接预览，也能对着文件提问
+- 单文件安装、可选目录，数据不出本机
+
+<sub>Rust · Tauri 2 · React 19 · SQLite/FTS5 · 本地语义模型</sub>
+
+[下载安装](https://github.com/fanfanhappy/TraceFind/releases/latest) ·
+[源码](https://github.com/fanfanhappy/TraceFind) ·
+[开发指南](https://github.com/fanfanhappy/TraceFind/blob/main/docs/DEVELOPMENT.md)
+
+</td>
+<td width="44%" valign="top">
+
+<a href="https://github.com/fanfanhappy/TraceFind">
+  <img src="https://raw.githubusercontent.com/fanfanhappy/TraceFind/main/docs/screens/01-search.png" alt="TraceFind 搜索窗口" />
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 技术栈
+
+<p>
+  <img src="https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+</p>
+
+## GitHub
+
+<p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=fanfanhappy&show_icons=true&theme=transparent&hide_border=true&locale=cn&hide_rank=true" alt="GitHub 统计" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanfanhappy&layout=compact&theme=transparent&hide_border=true&locale=cn&langs_count=8" alt="常用语言" />
+</p>
+
+## 关于我
+
+- 玩原神、王者，也自己写点小游戏（TankGame / CropGame）
+- 刷算法随缘，更多时间在把一个东西做完
+- 喜欢蕾塞，这件事想让所有人都知道
+
+<sub>别看了，没有抽奖。</sub>
+
+<details>
+<summary>一些旧仓库</summary>
+
+- [TankGame](https://github.com/fanfanhappy/TankGame) — Java 写的坦克大战
+- [CropGame](https://github.com/fanfanhappy/CropGame) — Godot 种田小游戏
+- [Shiyi-Memory](https://github.com/fanfanhappy/Shiyi-Memory) — TypeScript 记忆工具
+- [aseprite-builder](https://github.com/fanfanhappy/aseprite-builder) — 用 GitHub Actions 编 Aseprite
+
+</details>
+
+---
+
+<div align="center">
+  <a href="https://github.com/fanfanhappy/TraceFind">
+    <img src="https://raw.githubusercontent.com/fanfanhappy/TraceFind/main/src-tauri/icons/128x128.png" width="56" alt="TraceFind" />
   </a>
-  <br>
-</p>
+  <br />
+  <sub>如果 TraceFind 帮到你，给它点个 Star ⭐</sub>
+</div>
